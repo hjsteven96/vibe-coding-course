@@ -6,19 +6,23 @@
 
 1. Cursor AI를 엽니다.
 
-2. 화면 우측의 **채팅 아이콘(💬)**을 클릭해서 AI 채팅창을 엽니다.
+2. 화면 우측의 **채팅 아이콘 또는 커서 아이콘**을 클릭해서 AI 채팅창을 엽니다.
+<img width="609" height="482" alt="image" src="https://github.com/user-attachments/assets/78b4fdef-af18-4291-852c-c22c98cdbfb6" />
+
 
 3. 채팅창에 이렇게 입력하세요:
 
-   > "안녕, 난 간단한 웹사이트를 만들고 싶어. Next.js와 Tailwind CSS를 사용할 거야. 'my-vibe-canvas'라는 이름으로 새 프로젝트를 만들어 줘."
+   > "간단한 웹사이트를 만들고 싶어. Next.js와 Tailwind CSS를 사용할 거야. 'my-vibe-canvas'라는 이름으로 새 프로젝트를 만들어 줘."
 
 4. AI가 터미널(Terminal)에 입력할 명령어를 알려줄 겁니다. (아마 `npx create-next-app...` 일 겁니다.)
 
-5. Cursor 하단의 `Terminal` 탭을 열고, AI가 알려준 명령어를 **그대로 복사+붙여넣기** 하고 엔터를 누르세요. (설치 중 몇 가지 질문을 하면 그냥 엔터만 누르세요.)
+5. Cursor가 명령어를 제안하면 "Run"버튼을 눌러 실행해 주세요.
 
 ## Step 1.2: 프로젝트 열고 실행하기
 
 1. 프로젝트 생성이 완료되면, `File` > `Open Folder...`를 선택해 방금 만든 `my-vibe-canvas` 폴더를 엽니다.
+<img width="581" height="227" alt="image" src="https://github.com/user-attachments/assets/28c764ce-6d0d-4eb4-97bf-3647415e2151" />
+
 
 2. 다시 우측 **채팅창**에 AI에게 지시합니다.
 
