@@ -31,6 +31,8 @@
 3. AI가 `npm run dev` 라는 명령어를 알려줄 겁니다. 터미널에 **복사+붙여넣기** 하고 엔터를 누르세요.
 
 4. 터미널에 `http://localhost:3000` 같은 주소가 뜨면 `Ctrl`(또는 `Cmd`)를 누른 채 클릭해서 브라우저로 열어보세요. (Next.js 기본 화면이 보이면 성공!)
+<img width="1010" height="650" alt="image" src="https://github.com/user-attachments/assets/b7d3ccd7-9cfc-473b-8f05-a8f987c9dd03" />
+
 
 ## Step 1.3: 나의 첫 번째 Vibe 반영하기
 
